@@ -23,8 +23,17 @@ How to use:
 
 Programs:
 ---
-Age of Empires 2 Taunt Spam
+* Age of Empires 2 Taunt Spam
 ```
 When Digispark is plug in, it will spam random Age of Empire 2 taunt numbers.
 A overview about the Age of the 2 taunts: http://ageofempires.wikia.com/wiki/Taunts
+
+Right way to use:
+1. Join a Age of Empires 2 Multiplayer lobby
+2. Left-Click in the Chat field
+3. Plug in the Digispark
+```
+* Admin Console
+```
+Template, that opens a console as admin and then runs a hand of commands.
 ```
