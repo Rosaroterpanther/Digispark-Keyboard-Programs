@@ -2,7 +2,7 @@
 
 // Spam Age of Empires 2 Taunts
 // Little Digistump Programm
-// @auth = Tukea
+// @author = Rosaroterpanther
 
 long randNumber;
 boolean started = false; 
