@@ -1,6 +1,4 @@
-# Digispark-Keyboard-Programs
-Digispark-Keyboard example programs
-===
+# Digispark-Keyboard example programs
 
 What you need:
 ---
@@ -26,7 +24,7 @@ How to use:
 Programs:
 ---
 Age of Empires 2 Taunt Spam
-'''
+```
 When Digispark is plug in, it will spam random Age of Empire 2 taunt numbers.
 A overview about the Age of the 2 taunts: http://ageofempires.wikia.com/wiki/Taunts
-'''
+```
